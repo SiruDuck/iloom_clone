@@ -1,6 +1,11 @@
 #manifest.mf
 *.MF
 
+#addtional file & path
+.classpath
+.project
+.settings/
+
 # Compiled class file
 *.class
 
