@@ -2,7 +2,7 @@
 ![일룸](https://www.businesspost.co.kr/news/photo/202109/M_20210910160001_41451.jpg)
 ## 일룸 웹 사이트 클론코딩 프로젝트
 
-일룸 웹 사이트 클론 코딩(일주일)
+일룸 웹 사이트 클론 코딩(일주일)미니프로젝트 입니다. 결과 화면을 보시려면 (여기)[ https://siruduck.github.io/iloom_clone/src/main/webapp/ ]를 클릭하세요!
 
 ##목표
 
