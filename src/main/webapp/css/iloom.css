@@ -132,5 +132,52 @@ header{
 	
 }
 
+/* =========================== special ========================== */
+
+.special-title-bg{
+	background: #e2e2e2;
+}
+
+.special-title{
+	max-width: 1280px;
+	height:72px;
+	margin: 0 auto;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+.special-title p::before{
+	content: '';
+	display:inline-block;
+	width:172px ;
+	height:32px ; 
+	margin-right: 1rem;
+	background: url("../images/logo_myiloomlf.svg") no-repeat center / cover;
+}
+
+.special-title a{
+	margin-left: 5em;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
